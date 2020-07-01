@@ -1,5 +1,5 @@
 # PD-progression-ML
-Supplementary code for "Predicting onset, progression, and clinical subtypes of Parkinson disease using machine learning"
+Supplementary code for "Predicting onset, progression, and clinical subtypes of Parkinson disease using machine learning" [bioRxiv 2018](https://doi.org/10.1101/338913)
 
 ## Predicting onset, progression, and clinical subtypes of Parkinson disease using machine learning
 
